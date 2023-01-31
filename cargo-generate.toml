@@ -1,0 +1,2 @@
+[template]
+include = ["Dockerfile", "Cargo.toml", "src/main.rs"]
